@@ -1,1 +1,1 @@
-#this a simple api based project
+#this a simple api based project to create a qr code genrator
